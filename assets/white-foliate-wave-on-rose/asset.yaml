@@ -1,0 +1,65 @@
+id: white-foliate-wave-on-rose
+title: White foliate wave on rose, repeat tile
+description: One cycle of a rose-brown painted band with a white waving stem that throws a trefoil leaf sprig into each bend, above and below, and a dark painted edge along the bottom. The pattern continues across the left and right edges; transparent beyond the band.
+type: border
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - line-filler
+  - vine
+  - leaf
+  - wave
+colors:
+  - pink
+  - brown
+  - white
+facing: none
+composition: repeat-tile
+group: 194v
+render:
+  image: {}
+  tile:
+    axis: x
+    period: 1
+  frame:
+    corner: corner-top-left
+    slice: 26.44
+components:
+  bar:
+    master: bar.png
+    description: The band as a straight finite strip of several cycles, with its uneven painted outer edge.
+  corner-top-left:
+    master: corner-top-left.png
+    description: Top-left mitred corner derived from the same cycle; the frame atlas is composed from this one and mirrors it.
+  corner-top-right:
+    master: corner-top-right.png
+    description: Top-right mitred corner derived from the same cycle, for hand-made layouts; the generated atlas does not use it.
+  corner-bottom-left:
+    master: corner-bottom-left.png
+    description: Bottom-left mitred corner derived from the same cycle, for hand-made layouts; the generated atlas does not use it.
+  corner-bottom-right:
+    master: corner-bottom-right.png
+    description: Bottom-right mitred corner derived from the same cycle, for hand-made layouts; the generated atlas does not use it.
+related:
+  - { asset: walters-w82/foliate-waves-and-gold-roundels-band, role: variant }
+  - { asset: walters-w82/white-foliate-wave-on-blue, role: companion }
+usage_notes:
+  - Repeat along x for a band of any length. The frame atlas is built from corner-top-left and mirrors it; the other three corners are kept for hand-made layouts.
+display_width: [ 185, 369 ]
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-repeat
+  institution: Walters Art Museum
+  object_title: Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin
+  object_identifier: W.82, fol. 194v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691
+license: null

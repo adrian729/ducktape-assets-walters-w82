@@ -1,0 +1,62 @@
+id: white-wave-and-alternating-dots-on-blue
+title: White wave with dots on blue, repeat tile
+description: One cycle of a blue painted band, a white wave with a white dot in the bend above and in the bend below, between a white rule inset along each edge and a dark painted edge beyond. The pattern continues across the left and right edges; transparent beyond the band.
+type: border
+categories:
+  - geometric
+  - scrollwork
+subjects:
+  - line-filler
+  - wave
+  - dot
+  - rule
+colors:
+  - blue
+  - white
+facing: none
+composition: repeat-tile
+group: 191v
+render:
+  image: {}
+  tile:
+    axis: x
+    period: 1
+  frame:
+    corner: corner-top-left
+    slice: 38.45
+components:
+  bar:
+    master: bar.png
+    description: The band as a straight finite strip of several cycles, with its uneven painted outer edge.
+  corner-top-left:
+    master: corner-top-left.png
+    description: Top-left mitred corner derived from the same cycle; the frame atlas is composed from this one and mirrors it.
+  corner-top-right:
+    master: corner-top-right.png
+    description: Top-right mitred corner derived from the same cycle, for hand-made layouts; the generated atlas does not use it.
+  corner-bottom-left:
+    master: corner-bottom-left.png
+    description: Bottom-left mitred corner derived from the same cycle, for hand-made layouts; the generated atlas does not use it.
+  corner-bottom-right:
+    master: corner-bottom-right.png
+    description: Bottom-right mitred corner derived from the same cycle, for hand-made layouts; the generated atlas does not use it.
+usage_notes:
+  - Repeat along x for a band of any length. The frame atlas is built from corner-top-left and mirrors it; the other three corners are kept for hand-made layouts.
+display_width: [ 67, 134 ]
+status: approved
+review: done
+created: 2026-10-28
+quality: One cycle is 134 px wide at the band's native 223 px height; grainy paint.
+master: master.png
+provenance:
+  method: native-source-repeat
+  institution: Walters Art Museum
+  object_title: Initial “D” with nimbed apostle and pseudo-inscribed scroll; unicorn, mermaid, and hunting scene in margin
+  object_identifier: W.82, fol. 191v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000386_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 8c42322b38c5ea4a01e13cae700ad7c129c1953fc3fdd3fb6b7ce92a44e7c967
+license: null

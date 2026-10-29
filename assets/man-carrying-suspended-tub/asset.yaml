@@ -1,0 +1,47 @@
+# descriptive: find it and understand it
+id: man-carrying-suspended-tub
+title: Striding man with grey bundle and green sprig
+description: A bald man with a fringe of hair, in a grey tunic with orange lining and bare legs, strides to the left. His right arm hooks over a grey basin-shaped bundle hanging in front of him, orange lining showing beneath, and his left hand holds out a green sprig of leaves. Dark outlines, grainy cream and grey wash; the background is transparent.
+type: illustration
+categories:
+  - humans
+subjects:
+  - man
+  - bundle
+  - sprig
+colors:
+  - gray
+  - cream
+  - orange
+  - green
+  - black
+facing: left
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: 52r
+render:
+  image: {}
+display_width:
+  - 250
+  - 700
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Grainy, speckled texture over the pale areas.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Initial "D" with a fool before David enthroned; man carrying horse on back in margin
+  object_identifier: W.82, fol. 52r
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000107_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 988ffd4dc9788e4b74e3d84f10127faaaafb59991a1b9ac2bf45548b1464bccb
+license: null

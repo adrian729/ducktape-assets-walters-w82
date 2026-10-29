@@ -1,0 +1,54 @@
+# descriptive: find it and understand it
+id: finite-gold-pip-and-double-white-cross-on-rose
+title: Rose line filler with gold disc and double cross
+description: "A short horizontal line filler on a dusty rose ground between thin white rules: a burnished gold disc with a dark rim at the left, then a white double cross of two upright bars with ticks and a small white mark. Dark outline with irregular ends; the background is transparent."
+type: divider
+categories:
+  - geometric
+subjects:
+  - line-filler
+  - disc
+  - cross
+colors:
+  - pink
+  - gold
+  - white
+  - black
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 62v
+render:
+  image: {}
+related:
+  - asset: walters-w82/finite-gold-wave-and-white-zigzag-over-blue-rose
+    role: companion
+  - asset: walters-w82/gold-pip-and-double-ended-curl-on-rose
+    role: companion
+  - asset: walters-w82/paired-roundels-and-foliate-wave-band
+    role: companion
+usage_notes:
+  - Finite line filler with its painted end caps; place it whole, do not stretch or repeat it.
+display_width:
+  - 120
+  - 300
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Blurred, low-contrast edges; the master is small and softens when enlarged.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial "S" with David in the water below God, who blesses him; ape rides unicorn in margin
+  object_identifier: W.82, fol. 62v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000128_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: ae1fb04cb7cd3666f23d298f3c249d267ba2bd44c41045e86fff7004deb976b1
+license: null

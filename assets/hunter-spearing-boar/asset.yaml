@@ -1,0 +1,43 @@
+id: hunter-spearing-boar
+title: Hunter spearing a boar
+description: A bareheaded hunter with curly fair hair, in a red-orange tunic and green hose, strides to the right and drives a long spear into a grey boar lying on its back with its legs in the air. Red strokes of blood spurt above and below the wound. Black outlines, transparent background.
+type: illustration
+categories:
+  - humans
+  - animals
+subjects:
+  - hunter
+  - man
+  - spear
+  - boar
+  - blood
+colors:
+  - orange
+  - green
+  - gray
+  - red
+  - cream
+facing: right
+view: side
+composition: multiple-figures
+group: 191v
+render:
+  image: {}
+display_width: [ 300, 620 ]
+status: approved
+review: done
+created: 2026-10-28
+quality: Figure interior at alpha 251 to 253 rather than 255, invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Initial “D” with nimbed apostle and pseudo-inscribed scroll; unicorn, mermaid, and hunting scene in margin
+  object_identifier: W.82, fol. 191v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000386_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 8c42322b38c5ea4a01e13cae700ad7c129c1953fc3fdd3fb6b7ce92a44e7c967
+license: null

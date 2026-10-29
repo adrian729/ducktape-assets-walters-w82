@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: long-brown-foliate-vine
+title: Tall brown vine bar with coloured leaves
+description: "A tall vertical margin vine on a thin brown stem: a pointed brown leaf curls at the top over a brown bud, the stem runs down with small thorns, then carries a blue leaf and a green bud, a yellow-green leaf and grey-blue leaves lower down, and ends in a small gold knob. Painted interiors are opaque and the loops of the stem open; the background is transparent."
+type: divider
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - vine
+  - stem
+  - leaf
+  - bud
+colors:
+  - brown
+  - blue
+  - green
+  - gold
+  - gray
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 52r
+render:
+  image: {}
+related:
+  - asset: walters-w82/orange-robed-human-headed-winged-figure
+    role: companion
+usage_notes:
+  - Vertical bar for a side margin; it does not repeat. The figure that sat beside it in the source is orange-robed-human-headed-winged-figure.
+display_width:
+  - 80
+  - 300
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The thin stem is soft and worn along the lower half; the gold knob is worn.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial "D" with a fool before David enthroned; man carrying horse on back in margin
+  object_identifier: W.82, fol. 52r
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000107_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 988ffd4dc9788e4b74e3d84f10127faaaafb59991a1b9ac2bf45548b1464bccb
+license: null

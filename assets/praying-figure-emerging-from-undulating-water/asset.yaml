@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: praying-figure-emerging-from-undulating-water
+title: David praying in the water
+description: "A figure rises from a half-disc of green water: the head at the left, tipped back and looking up with closed eyes, the hands joined in prayer above the surface, and the body showing through dark wavy lines of water. The flat top edge of the water is where the frame of the initial met it; the background is transparent."
+type: illustration
+categories:
+  - humans
+subjects:
+  - david
+  - man
+  - water
+  - hand
+  - head
+colors:
+  - green
+  - cream
+  - black
+facing: left
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: 62v
+render:
+  image: {}
+related:
+  - asset: walters-w82/god-blessing-bust-with-orb
+    role: companion
+usage_notes:
+  - Pairs with haloed-bust-with-orb-and-raised-hand, the God who blesses him in the same initial; place God above the water.
+display_width:
+  - 250
+  - 700
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Cut straight along the upper edge of the water.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial "S" with David in the water below God, who blesses him; ape rides unicorn in margin
+  object_identifier: W.82, fol. 62v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000128_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: ae1fb04cb7cd3666f23d298f3c249d267ba2bd44c41045e86fff7004deb976b1
+license: null

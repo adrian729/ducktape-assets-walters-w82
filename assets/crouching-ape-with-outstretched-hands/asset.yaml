@@ -1,0 +1,41 @@
+id: crouching-ape-with-outstretched-hands
+title: Crouching ape reaching forward
+description: A brown ape kneels low with its back arched, facing right, both arms stretched forward with open hands. Its belly and rump are pale cream and its head bald, drawn with a heavy black outline and fine white highlights. Transparent background.
+type: illustration
+categories:
+  - animals
+subjects:
+  - ape
+  - drollery
+colors:
+  - brown
+  - cream
+  - black
+facing: right
+view: side
+composition: single-figure
+group: 184r
+render:
+  image: {}
+related:
+  - { asset: walters-w82/mitred-owl-and-ape-with-shared-staff, role: companion }
+usage_notes:
+  - From the same margin as mitred-owl-and-ape-with-shared-staff; it reaches towards that pair on the page.
+display_width: [ 250, 500 ]
+status: approved
+review: done
+created: 2026-10-28
+quality: Figure interior at alpha 251 to 253 rather than 255, invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Initial “D” with Massacre of an Innocent; apes, owl, falconer, and dragon in margin
+  object_identifier: W.82, fol. 184r
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000371_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: b3b7ec0c3c2ce94837c989050b00470712e4c342a401466da2fa63b38abd5b91
+license: null

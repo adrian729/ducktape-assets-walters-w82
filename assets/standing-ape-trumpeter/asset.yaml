@@ -1,0 +1,46 @@
+id: standing-ape-trumpeter
+title: Ape blowing a trumpet
+description: A brown ape stands upright in profile facing left, one hand on its hip, and blows a long straight orange trumpet with a flared bell rimmed in gold, held up to the left. Black outline with fine white highlights, transparent background.
+type: illustration
+categories:
+  - animals
+  - music
+subjects:
+  - ape
+  - trumpet
+  - musician
+  - drollery
+colors:
+  - brown
+  - orange
+  - gold
+  - black
+facing: left
+view: side
+composition: single-figure
+group: 194v
+render:
+  image: {}
+related:
+  - { asset: walters-w82/ape-jouster-riding-ram, role: companion }
+  - { asset: walters-w82/jousting-ape-with-shield-and-lance, role: companion }
+usage_notes:
+  - Heralds the two jousting apes of the same margin, ape-jouster-riding-ram and jousting-ape-with-shield-and-lance.
+display_width: [ 250, 500 ]
+status: approved
+review: done
+created: 2026-10-28
+quality: Figure interior at alpha 251 to 253 rather than 255, invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin
+  object_identifier: W.82, fol. 194v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691
+license: null

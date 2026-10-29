@@ -1,0 +1,36 @@
+id: crouching-hare
+title: Crouching hare
+description: A grey-green hare crouches facing left with its long ears laid back along its neck, a dotted line down its spine, its forelegs tucked under and its hind legs bent, and a small round tail at the right. Dark green outline over a pale wash, transparent background.
+type: illustration
+categories:
+  - animals
+subjects:
+  - hare
+  - rabbit
+colors:
+  - gray
+  - green
+  - black
+facing: left
+view: side
+composition: single-figure
+group: 194v
+render:
+  image: {}
+display_width: [ 300, 600 ]
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin
+  object_identifier: W.82, fol. 194v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691
+license: null

@@ -1,0 +1,39 @@
+id: standing-ape-holding-long-gold-rod
+title: Ape raising a gold rod
+description: A grey-green ape stands upright in profile facing left with its head tilted back, gripping with both raised hands a long gold rod that widens to a flat head at the top right. Its legs are long and bent. The top of the rod and the toes of the rear foot are cut where the margin border and the page crop overlapped them. Dark outline, transparent background.
+type: illustration
+categories:
+  - animals
+subjects:
+  - ape
+  - rod
+  - drollery
+colors:
+  - gray
+  - green
+  - gold
+  - black
+facing: left
+view: side
+composition: single-figure
+group: 194v
+render:
+  image: {}
+display_width: [ 150, 315 ]
+status: approved
+review: done
+created: 2026-10-28
+quality: The top of the rod and the rear foot are cut where the margin border and the page crop overlapped them.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin
+  object_identifier: W.82, fol. 194v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691
+license: null

@@ -1,0 +1,50 @@
+# descriptive: find it and understand it
+id: long-beaked-orange-winged-bird
+title: Long-beaked bird hybrid with human-faced tail
+description: A grey-green bird-like creature faces left with a long open beak showing teeth, a long neck dotted with white, two orange feathered wings, one raised and one spread back, and orange legs; its tail ends in a bearded human face in profile looking right, trailing wavy flame-like wisps. Dark outlines over flat colour; the background is transparent.
+type: illustration
+categories:
+  - hybrids
+  - fantasy
+  - animals
+subjects:
+  - bird-like-creature
+  - grotesque
+  - face
+  - wings
+  - drollery
+colors:
+  - gray
+  - green
+  - orange
+  - cream
+  - black
+facing: left
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: 169r
+render:
+  image: {}
+display_width:
+  - 250
+  - 700
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Initial "S" with dying man receiving last rites from abbot; woman dances on shoulder of bagpipe player in margin
+  object_identifier: W.82, fol. 169r
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000341_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 679e633e351727976c20f756c392c699eee8ccd68bf39c4a808bb694e6f6eded
+license: null

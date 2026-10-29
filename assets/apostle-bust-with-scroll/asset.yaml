@@ -1,0 +1,42 @@
+id: apostle-bust-with-scroll
+title: Haloed apostle with inscribed scroll
+description: Bust of a grey-haired, bearded apostle with an orange-red halo, cut from the initial. He faces slightly to the right, wrapped in a grey-green mantle over an orange-red robe, and holds across his chest a pale scroll bearing a line of pseudo-inscription. Flecks of the gold ground remain along the halo and the right edge, and the right end of the scroll is ragged. Transparent background.
+type: illustration
+categories:
+  - humans
+subjects:
+  - apostle
+  - halo
+  - scroll
+  - beard
+  - robe
+colors:
+  - gray
+  - orange
+  - red
+  - gold
+  - green
+facing: right
+view: three-quarter
+composition: single-figure
+group: 194v
+render:
+  image: {}
+display_width: [ 300, 600 ]
+status: approved
+review: done
+created: 2026-10-28
+quality: Cut from the initial's gold ground; gold flecks remain along the halo, the hand and the right edge, and the scroll's right end is torn.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin
+  object_identifier: W.82, fol. 194v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691
+license: null

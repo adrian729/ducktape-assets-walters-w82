@@ -1,0 +1,56 @@
+# descriptive: find it and understand it
+id: crowned-david-with-book-pointing-to-eye
+title: King David pointing to his eye, holding a book
+description: A crowned, bearded King David in a blue robe over a grey-mauve mantle lined with green stands facing left, his right hand raised to point at his eye and his left hand holding a green book. An orange drapery with white dots hangs at the left and grey shoes show below. Gold crown, dark outlines; the background is transparent.
+type: illustration
+categories:
+  - humans
+  - royalty
+  - reading
+subjects:
+  - king
+  - david
+  - crown
+  - book
+  - beard
+  - robe
+colors:
+  - blue
+  - gray
+  - orange
+  - green
+  - gold
+facing: left
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: 31r
+render:
+  image: {}
+related:
+  - asset: walters-w82/haloed-god-with-orb-pointing-from-clouds
+    role: companion
+usage_notes:
+  - Faces haloed-god-with-orb-pointing-from-clouds in the same initial; place God to its left.
+display_width:
+  - 200
+  - 600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial "D" with an enthroned David pointing to his eye before God; dogs attack unicorn in margins
+  object_identifier: W.82, fol. 31r
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000065_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: a788a6c50e8d54f08503387eb06fe12302affcc4cb546969ffd8c1e2fb684c36
+license: null

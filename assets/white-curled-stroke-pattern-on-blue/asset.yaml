@@ -1,0 +1,57 @@
+# descriptive: find it and understand it
+id: white-curled-stroke-pattern-on-blue
+title: White wave on blue, repeat tile with corner
+description: "One cycle of a painted bar border: a white S-curling wave between two thin white rules on a deep blue ground, the pattern continuing across the left and right edges. The top and bottom edges are the ragged painted edges of the band itself, with a dark rim, and everything beyond them is transparent. A matching top-left corner component turns the rules around the angle with one curl inside."
+type: border
+categories:
+  - geometric
+subjects:
+  - wave
+  - curl
+  - rule
+colors:
+  - blue
+  - white
+  - black
+facing: none
+composition: repeat-tile
+
+# structural: how it is organised and related
+group: 197r
+render:
+  image: {}
+  tile:
+    axis: x
+    period: 1
+  frame:
+    corner: corner-top-left
+    slice: 42.21
+components:
+  corner-top-left:
+    master: corner-top-left.png
+    description: "Top-left corner, square at the thickness of the band, composed from the same painted band: the rules turn the angle and one curl sits inside, and its right edge continues into the tile. A modern derivation, not a motif of the page."
+usage_notes:
+  - Repeat along x for a horizontal band, or use the generated rotated tile for a vertical one; the cycle is shorter than the band is thick, so it is a one-motif tile rather than a strip.
+  - The frame atlas composes the tile with the top-left corner mirrored to the other three corners; use it with border-image and round fitting.
+display_width:
+  - 40
+  - 79
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Ragged painted top and bottom edges at partial alpha; the blue is mottled and the corner shows faint seams where it was composed.
+master: master.png
+provenance:
+  method: native-source-repeat
+  institution: Walters Art Museum
+  object_title: Initial “D” with God blessing King David praying before altar; dragon and juggler in margin
+  object_identifier: W.82, fol. 197r
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000397_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: f098f1aab95c77e8a831c08f587499e72c335880be94389896da13f2b9967fe7
+license: null

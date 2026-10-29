@@ -1,0 +1,40 @@
+id: blue-line-filler-with-white-waves
+title: Blue line filler with two gold roundels
+description: A long blue painted bar pointed at both ends, with two gold roundels at the left end, a white wavy line along the upper half, a row of short white hatch strokes and a long white rule along the lower half, and a curled white terminal at the right. The paint is grainy and the edge of the bar is uneven. Transparent background.
+type: divider
+categories:
+  - geometric
+  - scrollwork
+subjects:
+  - line-filler
+  - roundel
+  - wave
+  - rule
+  - terminal
+colors:
+  - blue
+  - white
+  - gold
+facing: none
+composition: single-ornament
+group: 179v
+render:
+  image: {}
+display_width: [ 300, 630 ]
+status: approved
+review: done
+created: 2026-10-28
+quality: Figure interior at alpha 251 to 253 rather than 255, invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Initial "D" with the Nativity; merman feeding stork with spoon and man sitting in basket of eggs in margins
+  object_identifier: W.82, fol. 179v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000362_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 345543fc84ebe26a2621fb0fa16fff7c052b06ed6e2f098ccfd3e11deff43aa2
+license: null

@@ -1,0 +1,59 @@
+# descriptive: find it and understand it
+id: crowned-bell-ringer-with-hammers
+title: King David striking bells with two hammers
+description: A crowned, bearded king in a blue mantle over a rose-brown tunic sits on a cream bench with green arcading and gold leaf finials, turned to the right, and swings two green hammers at four blue bells hung from an orange rod above him. Gold crown, worn gilding on the bells, dark outlines; the background is transparent.
+type: illustration
+categories:
+  - humans
+  - music
+  - royalty
+subjects:
+  - king
+  - david
+  - crown
+  - bells
+  - hammer
+  - bench
+  - musician
+  - robe
+colors:
+  - blue
+  - green
+  - gold
+  - cream
+  - orange
+facing: right
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: 75v
+render:
+  image: {}
+related:
+  - asset: walters-w82/reclining-green-robed-figure
+    role: companion
+usage_notes:
+  - The bells and their rod belong to the figure; keep the whole group together.
+display_width:
+  - 250
+  - 700
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Worn gilding on the crown and bells.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial "E" with David ringing bells; apes trapping birds in margin
+  object_identifier: W.82, fol. 75v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000154_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 2fe7210327e07ad0f7b900d689dfe1853ea0be277e903ed223f8fa07b3b586f1
+license: null

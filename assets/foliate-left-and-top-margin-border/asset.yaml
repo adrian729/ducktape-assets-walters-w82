@@ -1,0 +1,44 @@
+id: foliate-left-and-top-margin-border
+title: Blue and gold foliate margin border
+description: An L-shaped margin border running down the left and across the top of the page. At the top-left a bar of blue and burnished gold with serrated gold edges knots into a loop of curling blue leaves and a small brown leaf; from it a thin stem bows down the whole left side and ends in a fork of three leaves in grey-blue, brown and orange, while along the top a slender stem ends in a gold roundel and a brown leaf. Gaps where the initial and figures overlapped it are left open. Transparent background.
+type: ornament
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - margin
+  - vine
+  - leaf
+  - stem
+  - roundel
+colors:
+  - blue
+  - gold
+  - brown
+  - orange
+facing: down
+composition: single-ornament
+group: 194v
+render:
+  image: {}
+usage_notes:
+  - Place as a whole page corner with content inside the L; the long left stem and the top stem mark the text-block edges.
+  - The apes, hound and hare of the same folio sit along this border on the page.
+display_width: [ 400, 1200 ]
+status: approved
+review: done
+created: 2026-10-28
+quality: Interrupted where the initial and the marginal figures overlapped the border on the page; those gaps are not reconstructed.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin
+  object_identifier: W.82, fol. 194v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691
+license: null

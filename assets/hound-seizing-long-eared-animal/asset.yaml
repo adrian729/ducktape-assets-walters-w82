@@ -1,0 +1,52 @@
+# descriptive: find it and understand it
+id: hound-seizing-long-eared-animal
+title: Hound biting a leaping deer-like beast
+description: A cream hound with a red collar bites the rump of a grey-brown, long-eared beast leaping up to the right, its head turned forward and forelegs raised; the tail of the hound curls back at the left. The Walters record calls the quarry a unicorn, but no horn is visible. Dark outlines over cream and grey washes; the background is transparent.
+type: illustration
+categories:
+  - animals
+subjects:
+  - dog
+  - hound
+  - deer
+  - unicorn
+colors:
+  - cream
+  - gray
+  - brown
+  - red
+  - black
+facing: right
+view: side
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 31r
+render:
+  image: {}
+related:
+  - asset: walters-w82/running-spotted-hound
+    role: companion
+usage_notes:
+  - running-spotted-hound is the second dog of the same chase; it runs in from the left.
+display_width:
+  - 250
+  - 700
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Initial "D" with an enthroned David pointing to his eye before God; dogs attack unicorn in margins
+  object_identifier: W.82, fol. 31r
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000065_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: a788a6c50e8d54f08503387eb06fe12302affcc4cb546969ffd8c1e2fb684c36
+license: null

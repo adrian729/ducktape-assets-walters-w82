@@ -1,0 +1,45 @@
+id: man-in-basket-of-eggs
+title: Man in a basket of eggs
+description: A man in a grey-brown hooded robe sits in a woven basket full of pale eggs and looks out towards the viewer, his right hand raised and holding thin red cords. The cords hang from a gold disc with a sketched face under a scalloped grey-blue cap, which floats above him at the left. Soft dark outlines and muted colours on a transparent background.
+type: illustration
+categories:
+  - humans
+  - fantasy
+subjects:
+  - man
+  - basket
+  - egg
+  - cord
+  - face
+  - robe
+  - drollery
+colors:
+  - gray
+  - brown
+  - gold
+  - red
+  - green
+facing: viewer
+view: three-quarter
+composition: single-figure
+group: 179v
+render:
+  image: {}
+display_width: [ 300, 700 ]
+status: approved
+review: done
+created: 2026-10-28
+quality: The top of the scalloped cap above the gold disc is clipped where the page crop ran through it.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial "D" with the Nativity; merman feeding stork with spoon and man sitting in basket of eggs in margins
+  object_identifier: W.82, fol. 179v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000362_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 345543fc84ebe26a2621fb0fa16fff7c052b06ed6e2f098ccfd3e11deff43aa2
+license: null

@@ -1,0 +1,53 @@
+# descriptive: find it and understand it
+id: orange-robed-human-headed-winged-figure
+title: Winged hybrid in an orange robe holding a gold object
+description: "A tall hybrid faces right: a curly-haired human head on a long orange robe that tapers to a point below, a tall green feathered wing rising above, a grey draped wing or cloth hanging at the left, and two hands holding a small gold object at the right. Dark outlines, soft wash; the background is transparent."
+type: illustration
+categories:
+  - hybrids
+  - fantasy
+  - humans
+subjects:
+  - grotesque
+  - head
+  - wings
+  - robe
+  - drollery
+colors:
+  - orange
+  - green
+  - gray
+  - gold
+  - cream
+facing: right
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: 52r
+render:
+  image: {}
+related:
+  - asset: walters-w82/long-brown-foliate-vine
+    role: companion
+display_width:
+  - 120
+  - 400
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial "D" with a fool before David enthroned; man carrying horse on back in margin
+  object_identifier: W.82, fol. 52r
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000107_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 988ffd4dc9788e4b74e3d84f10127faaaafb59991a1b9ac2bf45548b1464bccb
+license: null

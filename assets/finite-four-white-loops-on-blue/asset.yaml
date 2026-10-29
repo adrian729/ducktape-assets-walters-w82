@@ -1,0 +1,38 @@
+id: finite-four-white-loops-on-blue
+title: Blue line filler with four white loops
+description: A short blue painted bar with a white rule inset along each long edge, joined at the left end, and four white loop marks in a row along the middle. The ends are uneven and the paint grainy. Transparent background.
+type: divider
+categories:
+  - geometric
+  - scrollwork
+subjects:
+  - line-filler
+  - loop
+  - rule
+colors:
+  - blue
+  - white
+facing: none
+composition: single-ornament
+group: 194v
+render:
+  image: {}
+related:
+  - { asset: walters-w82/white-droplet-loop-on-blue, role: variant }
+display_width: [ 270, 538 ]
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin
+  object_identifier: W.82, fol. 194v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691
+license: null

@@ -1,0 +1,38 @@
+id: finite-gold-pip-and-white-wave-on-blue
+title: Blue line filler with gold roundel and white wave
+description: A blue painted bar with a gold roundel at the left end, a white wavy line running the length of the middle and a white rule inset along each edge. Uneven ends and grainy paint. Transparent background.
+type: divider
+categories:
+  - geometric
+  - scrollwork
+subjects:
+  - line-filler
+  - roundel
+  - wave
+  - rule
+colors:
+  - blue
+  - gold
+  - white
+facing: none
+composition: single-ornament
+group: 194v
+render:
+  image: {}
+display_width: [ 330, 654 ]
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin
+  object_identifier: W.82, fol. 194v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691
+license: null

@@ -1,0 +1,48 @@
+id: jousting-ape-with-shield-and-lance
+title: Jousting ape with cross shield
+description: A tan ape sits with its legs crossed, facing right, holding an orange shield charged with a black cross against its chest and levelling a long red lance with a three-pronged tip to the right. Black outline with pale highlights. Transparent background.
+type: illustration
+categories:
+  - animals
+  - fantasy
+subjects:
+  - ape
+  - shield
+  - lance
+  - cross
+  - drollery
+colors:
+  - brown
+  - tan
+  - orange
+  - red
+  - black
+facing: right
+view: side
+composition: single-figure
+group: 194v
+render:
+  image: {}
+related:
+  - { asset: walters-w82/ape-jouster-riding-ram, role: companion }
+  - { asset: walters-w82/standing-ape-trumpeter, role: companion }
+usage_notes:
+  - Charges to the right; ape-jouster-riding-ram charges to the left, and the two face each other in the lower margin with the trumpeter beside them.
+display_width: [ 250, 500 ]
+status: approved
+review: done
+created: 2026-10-28
+quality: Figure interior at alpha 251 to 253 rather than 255, invisible in use.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Initial “D” with nimbed apostle and pseudo-inscribed scroll; dragon with man's head and apes jousting in margin
+  object_identifier: W.82, fol. 194v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000392_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: d8926062375cc9f755c8e1a444cfc6437fcb462021dd84cc15a842519dd48691
+license: null

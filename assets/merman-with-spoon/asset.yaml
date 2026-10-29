@@ -1,0 +1,41 @@
+id: merman-with-spoon
+title: Merman with a spoon
+description: A merman swims to the right. His bare-headed human upper body wears an orange tunic and his long scaled grey-green fish tail trails away to the left; both arms reach forward holding a long-handled spoon with a round bowl. An orange-edged stroke crossing the bowl, the bill of the stork he feeds on the page, is cut at both ends, and the top of his head is clipped. Transparent background.
+type: illustration
+categories:
+  - hybrids
+  - fantasy
+  - humans
+subjects:
+  - merman
+  - spoon
+  - tail
+colors:
+  - orange
+  - green
+  - gray
+  - brown
+facing: right
+view: side
+composition: single-figure
+group: 179v
+render:
+  image: {}
+display_width: [ 400, 900 ]
+status: approved
+review: done
+created: 2026-10-28
+quality: The top of the head and both ends of the stroke crossing the spoon are clipped where neighbouring elements met on the page.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial "D" with the Nativity; merman feeding stork with spoon and man sitting in basket of eggs in margins
+  object_identifier: W.82, fol. 179v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000362_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 345543fc84ebe26a2621fb0fa16fff7c052b06ed6e2f098ccfd3e11deff43aa2
+license: null

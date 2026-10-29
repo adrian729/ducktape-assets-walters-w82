@@ -1,0 +1,40 @@
+id: standing-ape-archer-with-red-bow-and-long-arrow
+title: Ape archer drawing a bow
+description: A grey-brown ape stands upright facing left and draws a long red and black bow, the gold-headed arrow pointing to the left. Its belly and rump are pale and the outline dark green; the feet are slightly ragged along the bottom edge. Transparent background.
+type: illustration
+categories:
+  - animals
+subjects:
+  - ape
+  - archer
+  - bow
+  - arrow
+  - drollery
+colors:
+  - gray
+  - brown
+  - red
+  - green
+facing: left
+view: side
+composition: single-figure
+group: 182v
+render:
+  image: {}
+display_width: [ 300, 600 ]
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial “D” with Adoration of the Magi; man combing hair and ape with crossbow in margin
+  object_identifier: W.82, fol. 182v
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000368_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 0474360dd7f1501691242d3ae2cb256d5a2473b2a14c071a5cb3cd3fa42f694b
+license: null

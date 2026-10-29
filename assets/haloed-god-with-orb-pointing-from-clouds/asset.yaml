@@ -1,0 +1,56 @@
+# descriptive: find it and understand it
+id: haloed-god-with-orb-pointing-from-clouds
+title: God pointing from clouds with orb
+description: "A haloed figure of God leans out of a bank of purple-brown and grey curled clouds edged with white, facing right: a youthful face in grey wash inside a red cruciform halo, a grey robe, a cross-marked orb held in the left hand and the right hand pointing to the right. The lower right is cut straight along an orange strip where the frame of the initial covered the figure; the background is transparent."
+type: illustration
+categories:
+  - humans
+subjects:
+  - god
+  - halo
+  - orb
+  - cloud
+  - hand
+colors:
+  - gray
+  - purple
+  - red
+  - cream
+  - orange
+facing: right
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: 31r
+render:
+  image: {}
+related:
+  - asset: walters-w82/crowned-david-with-book-pointing-to-eye
+    role: companion
+  - asset: walters-w82/god-blessing-bust-with-orb
+    role: variant
+usage_notes:
+  - Faces crowned-david-with-book-pointing-to-eye in the same initial; place David to its right.
+display_width:
+  - 200
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Cut straight along the lower and right edges by the frame of the initial.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Initial "D" with an enthroned David pointing to his eye before God; dogs attack unicorn in margins
+  object_identifier: W.82, fol. 31r
+  date: Ca. 1315-1325 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W82/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W82/data/W.82/master/W82_000065_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: a788a6c50e8d54f08503387eb06fe12302affcc4cb546969ffd8c1e2fb684c36
+license: null
